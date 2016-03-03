@@ -1,5 +1,5 @@
-90
-95
-dumb
-88
-79
+        test1   test2
+tom     90      98
+dick    95      88
+harry   88      78
+sally   79      68
